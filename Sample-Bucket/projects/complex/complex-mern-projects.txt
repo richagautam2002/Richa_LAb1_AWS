@@ -1,0 +1,3 @@
+
+- Employee Management System
+    - Developed using Mongo, Node, react-js
